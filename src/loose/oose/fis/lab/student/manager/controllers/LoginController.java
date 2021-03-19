@@ -1,9 +1,13 @@
 package loose.oose.fis.lab.student.manager.controllers;
-
+import java.io.IOException;
 import javafx.fxml.FXML;
 import javafx.scene.control.PasswordField;
 import javafx.scene.control.TextField;
 import javafx.scene.text.Text;
+import javafx.stage.Stage;
+import javafx.scene.Scene;
+import javafx.scene.Parent;
+import javafx.fxml.FXMLLoader;
 
 public class LoginController {
 
